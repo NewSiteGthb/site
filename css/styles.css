@@ -1150,8 +1150,8 @@ input[type='checkbox'] {
 /*     10. Screenshots     */
 /***************************/
 .slider {
-	padding-top: 8rem;
-	padding-bottom: 8rem;
+	padding-top: 4rem;
+	padding-bottom: 4rem;
 	background-color: #f7fafd;
 }
 
@@ -1317,7 +1317,7 @@ input[type='checkbox'] {
 	position: relative;
 	overflow: hidden;
 	padding-top: 8rem;
-	padding-bottom: 8rem;
+	padding-bottom: 2rem;
 	background-color: #e8eff6;
 	text-align: center;
 }
